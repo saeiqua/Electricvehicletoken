@@ -13,13 +13,6 @@ Total supply: 898,888,777,666
 
 Deflationary: Yes
 
-Taxes structure:
-
-5% sent to Liquidity Pool
-
-3% distributed to operation/dev/marketing wallet 
-
-5% distributed to Electric vehicle and sustainbility based companies.
 
 -------------------------------
 
